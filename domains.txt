@@ -1174,6 +1174,7 @@ disscord.com
 disscord.gift
 disscord.online
 disscord.ru
+disscordnitro.gifts
 disscords.club
 dissord.com
 dissord.gift
@@ -4559,6 +4560,7 @@ taceitt.com
 tacelt.com
 team.the-shrubbery.co.uk
 teamfnattic.org.ru
+test.com
 testbot2021.ru
 thediscordapp.com
 themekaversed.org
