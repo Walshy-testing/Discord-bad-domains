@@ -264,6 +264,7 @@ diisscord.online
 dijscord.com
 dilscord.com
 dilscord.ru
+dilscord.ru
 dilscordl.com
 dilscordl.com
 dioscord.com
@@ -1092,6 +1093,7 @@ discpordapp.com
 discprd.com
 discqorcl.com
 discqrdapp.com
+discqrde.com
 discrd.co
 discrd.gg
 discrdapp.cf
